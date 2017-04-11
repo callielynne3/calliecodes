@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.circle-img {
+    border-radius: 50%;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
