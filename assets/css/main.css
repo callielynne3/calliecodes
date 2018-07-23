@@ -9,6 +9,10 @@
 
 /* Reset */
 
+/* .goto-next scrolly {
+	background: !important;
+} */
+
 
 	.github-link {
 		color: #8cd1a8;
@@ -2669,7 +2673,7 @@
 			-webkit-transition: background-color 0.2s ease-in-out;
 			-ms-transition: background-color 0.2s ease-in-out;
 			transition: background-color 0.2s ease-in-out;
-			background-color: rgba(144, 144, 144, 0.075);
+			background-color: #8cd1a8;
 			background-image: url("images/arrow.svg");
 			background-position: center center;
 			background-repeat: no-repeat;
